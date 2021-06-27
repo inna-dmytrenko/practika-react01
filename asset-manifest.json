@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/practika-react01/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/practika-react01/static/js/main.5cf171bf.chunk.js",
+    "main.js.map": "/practika-react01/static/js/main.5cf171bf.chunk.js.map",
+    "runtime-main.js": "/practika-react01/static/js/runtime-main.bdadb27d.js",
+    "runtime-main.js.map": "/practika-react01/static/js/runtime-main.bdadb27d.js.map",
+    "static/js/2.b527f1a6.chunk.js": "/practika-react01/static/js/2.b527f1a6.chunk.js",
+    "static/js/2.b527f1a6.chunk.js.map": "/practika-react01/static/js/2.b527f1a6.chunk.js.map",
+    "index.html": "/practika-react01/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/practika-react01/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.b527f1a6.chunk.js.LICENSE.txt": "/practika-react01/static/js/2.b527f1a6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bdadb27d.js",
+    "static/js/2.b527f1a6.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.5cf171bf.chunk.js"
+  ]
+}
